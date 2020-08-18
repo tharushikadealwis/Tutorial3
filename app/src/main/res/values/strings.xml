@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="javatpoint_custom_toast">JavaTpoint custom Toast</string>
+</resources>
